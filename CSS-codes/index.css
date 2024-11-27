@@ -1,0 +1,66 @@
+.Playfair{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+.Dosis{
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30PX;
+  }
+header{
+    background-color: #20bce3;
+    width: 100%;
+    height: 100px;
+    margin-top: 50px;
+}
+#Valera{
+    text-align: center;
+    font-size: 40px;
+}
+#violeta{
+    background-color: #a52cc7;
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+}
+footer{
+    color: white;
+}
+.China{
+    width: 100%;
+    height: auto;
+}
+#center{
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+.box{
+    width: 400px;
+    height: 400px;
+}
+#walter{
+    background-color: white;
+}
+#white{
+    background-color: white;
+}
+table{
+    width: 100%;
+    height: auto;
+    border-spacing: 25px;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+}
+
+#nozhir{
+    text-decoration: none  ;
+}
